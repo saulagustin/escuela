@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.contenedor-imagen{
+    display: flex;
+}
+.contenedor-imagen{
+    width: 100%;
+}
+article{
+    padding: 10px;
+    box-shadow: black 5px 5px 5px 5px ; 
+}
