@@ -1,0 +1,47 @@
+{
+    "sclavos": [
+        {
+            "id": 1,
+            "nombre": "pepe",
+            "edad": 15,
+            "peso": 45
+        },
+        {
+            "id": 2,
+            "nombre": "jaun",
+            "edad": 36,
+            "peso": 37
+        },
+        {
+            "id": 3,
+            "nombre": "bill",
+            "edad": 45,
+            "peso": 42
+        },
+        {
+            "id": 4,
+            "nombre": "carlos",
+            "edad": 12,
+            "peso": 54
+        },
+        {
+            "id": 5,
+            "nombre": "carla",
+            "edad": -20,
+            "peso": 72
+        },
+        {
+            "id": 6,
+            "nombre": "sergio",
+            "edad": 14,
+            "peso": 66
+        },
+        {
+            "id": 7,
+            "nombre": "moles",
+            "edad": 150,
+            "horas-Trabajo": 20,
+            "salariosemanal": 1002
+        }
+    ]
+}
