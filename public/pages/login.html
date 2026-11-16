@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GameStore - Acceso</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>🎮 GameStore</h1>
+  <nav>
+    <a href="/pages/index.html">Inicio</a>
+  </nav>
+</header>
+
+<main class="acceso">
+  <div class="tarjeta">
+    <h2>Iniciar sesión</h2>
+    <input id="loginCorreo" type="email" placeholder="Correo electrónico">
+    <input id="loginPassword" type="password" placeholder="Contraseña">
+    <button onclick="iniciarSesion()">Entrar</button>
+  </div>
+
+  <div class="tarjeta">
+    <h2>Crear cuenta</h2>
+    <input id="registroNombre" placeholder="Nombre completo">
+    <input id="registroCorreo" type="email" placeholder="Correo electrónico">
+    <input id="registroPassword" type="password" placeholder="Contraseña">
+    <button onclick="registrar()">Registrarme</button>
+  </div>
+</main>
+
+<script src="/js/auth.js"></script>
+</body>
+</html>

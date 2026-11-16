@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GameStore - Carrito</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>🎮 GameStore</h1>
+  <nav>
+    <a href="/pages/index.html">Inicio</a>
+    <a href="/pages/carrito.html">Carrito 🛒</a>
+    <a href="/pages/perfil.html">Mi perfil</a>
+  </nav>
+</header>
+
+<main>
+  <h2>🛒 Mi carrito de compras</h2>
+
+  <div id="listaCarrito"></div>
+
+  <div class="resumen">
+    <h2>Total: $<span id="total">0</span> MXN</h2>
+    <button onclick="comprar()">Confirmar compra</button>
+  </div>
+
+  <div id="resultado" class="oculto">
+    <h2>¡Compra realizada!</h2>
+    <p>Tu código de compra:</p>
+    <h2 id="codigoCompra"></h2>
+  </div>
+</main>
+
+<script src="/js/carrito.js"></script>
+</body>
+</html>
