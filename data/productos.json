@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Minecraft",
+    "precio": 499,
+    "imagen": "https://ejemplo.com/minecraft.jpg",
+    "descripcion": "Construye tu propio mundo."
+  },
+  {
+    "id": 2,
+    "nombre": "God of War",
+    "precio": 699,
+    "imagen": "https://ejemplo.com/godofwar.jpg",
+    "descripcion": "Una aventura épica."
+  },
+  {
+    "id": 3,
+    "nombre": "Elden Ring",
+    "precio": 899,
+    "imagen": "https://ejemplo.com/eldenring.jpg",
+    "descripcion": "Explora un mundo fantástico."
+  }
+]
