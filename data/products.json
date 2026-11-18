@@ -19,5 +19,19 @@
     "precio": 899,
     "imagen": "https://ejemplo.com/eldenring.jpg",
     "descripcion": "Explora un mundo fantástico."
+  },
+    {
+    "id": 4,
+    "nombre": "7days to die",
+    "precio": 899,
+    "imagen": "https://ejemplo.com/eldenring.jpg",
+    "descripcion": "Explora un mundo fantástico."
+  },
+    {
+    "id": 5,
+    "nombre": "Minecraft",
+    "precio": 899,
+    "imagen": "https://ejemplo.com/eldenring.jpg",
+    "descripcion": "Explora un mundo fantástico."
   }
 ]
